@@ -1,13 +1,13 @@
-# tweather
-Weather Forcast Bot for facebook
+# weather bot
+Weather Bot for facebook
 
 Overview
 --------
-The Weather Forcast Bot is what the title says it is. Its a quick simple weather bot which features include the basics, including forecasts of any city and more.
+The Weather Bot is what the title says it is. Its a quick simple weather bot which features include the basics, including forecasts of any city and more. Other than that, it's really not all that complicated. The weather bot supports global locations
 
 Prerequsites
 --------
-Add Weather Forcast Bot to your messenger.
+Add Weather Bot to your messenger.
 
 Query and Response examples
 --------
@@ -28,4 +28,4 @@ III.	Query: {{city}} or
 	
 Features
 --------
-Weather Forcast Bot detects weather of a city
+Weather Bot detects weather of a city
