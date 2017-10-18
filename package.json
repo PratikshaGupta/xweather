@@ -1,0 +1,22 @@
+{
+  "name": "Tweather",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "botpress": "1.x",
+    "botpress-api.ai": "^2.1.1",
+    "botpress-messenger": "^2.2.9",
+    "botpress-web": "1.x",
+    "q": "^1.5.0"
+  },
+  "scripts": {
+    "start": "botpress start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sbeta",
+  "license": "AGPL-3.0",
+  "engines": {
+    "node": ">6.0.0"
+  }
+}
