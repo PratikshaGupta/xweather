@@ -3,7 +3,7 @@ Weather Forcast Bot for facebook
 
 Overview
 --------
-The Weather Forcast Bot is what the title says it is. It's a quick bot.
+The Weather Forcast Bot is what the title says it is. Its a quick simple weather bot which features include the basics, including forecasts of any city and more.
 
 Prerequsites
 --------
@@ -13,29 +13,19 @@ Query and Response examples
 --------
 
 I.	Query: Hi/Hello
-	Response 1: (any one)
+	Response 1:
 	-	Hey there! What would you like to hear?
+
+II.	Query: Current Weather Quick Reply
+	Response 1:
+	-	What is your location?
+
+III.	Query: {{city}} or
+	Query: How is the weather in Paris today ?
+	Query: Tell me weather in Paris
+	Response 1:
+	-	 It's {{condition}} today in {{city}}
 	
-
-
 Features
 --------
-
-
-
-1. Click on “Get Started” button 
-
-2. For getting current weather condition, click on “Current Weather” quick reply
-
-3. The bot will ask you to enter your location. Please enter a city name.
-
-And you will get the current weather condition for the mentioned city.
-
-You can also type 'How is the weather in Paris today ?' OR 'Tell me weather in Paris'.
-
-
-
-
-
-
-
+Weather Forcast Bot detects weather of a city
